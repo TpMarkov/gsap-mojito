@@ -42,9 +42,14 @@ To showcase your work, simply replace the placeholder URLs below with your own s
 *   *Recommended Size*: Max width 300px, Height ~200px.
 *   *Markdown Format*: `![Description](path/to/image.jpg)`
 
-| Home View | Animation Demo | Responsive Layout |
-| :---: | :---: | :---: |
-| ![Home View](https://i.ibb.co/Q3vRhTKb/home.png) | ![Animation Demo](https://i.ibb.co/WpxTkZVX/image1.png) | ![Responsive Layout](https://i.ibb.co/602K65c3/image3.png) |
+### Home View
+![Home View](https://i.ibb.co/Q3vRhTKb/home.png)
+
+### Animation Showcase
+![Animation Demo](https://i.ibb.co/WpxTkZVX/image1.png)
+
+### Responsive Layout
+![Responsive Layout](https://i.ibb.co/602K65c3/image3.png)
 
 ---
 
