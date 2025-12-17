@@ -37,11 +37,6 @@ This project is built using the latest bleeding-edge tools:
 
 ## 🖼️ Gallery
 
-### **How to add images:**
-To showcase your work, simply replace the placeholder URLs below with your own screenshot paths or hosted image URLs.
-*   *Recommended Size*: Max width 300px, Height ~200px.
-*   *Markdown Format*: `![Description](path/to/image.jpg)`
-
 | Home View | Animation Demo | Responsive Layout |
 | :---: | :---: | :---: |
 | ![Home View](https://i.ibb.co/Q3vRhTKb/home.png) | ![Animation Demo](https://i.ibb.co/WpxTkZVX/image1.png) | ![Responsive Layout](https://i.ibb.co/602K65c3/image3.png) |
