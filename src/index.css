@@ -15,7 +15,10 @@
     --font-serif: "DM Serif Text", serif;
 }
 
-html,
+html {
+    width: 100%;
+}
+
 body {
     width: 100%;
     background-color: black;
@@ -63,7 +66,7 @@ body {
 
 @layer components {
     main {
-        @apply w-full overflow-x-hidden;
+        @apply w-full;
     }
 
     nav {
