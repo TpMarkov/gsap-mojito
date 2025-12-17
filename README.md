@@ -1,6 +1,6 @@
 # Mojito 🍸
 
-![Banner](https://i.ibb.co/gLL29RSv/image2.png)
+![Banner](https://i.ibb.co/ym0Rk14f/image2.png)
 
 **A High-Performance Animated Portfolio Showcase**
 
