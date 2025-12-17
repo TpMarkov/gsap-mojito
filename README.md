@@ -1,6 +1,6 @@
 # Mojito 🍸
 
-![Banner](https://i.ibb.co/8n6zmmbf/image2.png)
+![Banner](https://i.ibb.co/gLL29RSv/image2.png)
 
 **A High-Performance Animated Portfolio Showcase**
 
@@ -39,7 +39,7 @@ This project is built using the latest bleeding-edge tools:
 
 | Home View | Animation Demo | Responsive Layout |
 | :---: | :---: | :---: |
-| ![Home View](https://i.ibb.co/0p9GjgFm/home.png) | ![Animation Demo](https://i.ibb.co/k2vJ1QyX/image1.png) | ![Responsive Layout](https://i.ibb.co/602K65c3/image3.png) |
+| ![Home View](https://i.ibb.co/0p9GjgFm/home.png) | ![Animation Demo](https://i.ibb.co/k2vJ1QyX/image1.png) | ![Responsive Layout](https://i.ibb.co/Hf3Rp4Hb/image3.png) |
 
 ---
 
