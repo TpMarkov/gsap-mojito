@@ -39,7 +39,7 @@ This project is built using the latest bleeding-edge tools:
 
 | Home View | Animation Demo | Responsive Layout |
 | :---: | :---: | :---: |
-| ![Home View](https://i.ibb.co/Q3vRhTKb/home.png) | ![Animation Demo](https://i.ibb.co/WpxTkZVX/image1.png) | ![Responsive Layout](https://i.ibb.co/602K65c3/image3.png) |
+| ![Home View](https://i.ibb.co/sp1Vv06b/home.png) | ![Animation Demo](https://i.ibb.co/WpxTkZVX/image1.png) | ![Responsive Layout](https://i.ibb.co/602K65c3/image3.png) |
 
 ---
 
