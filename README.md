@@ -1,4 +1,4 @@
-# Mojito 🍸
+<img width="1270" height="821" alt="image" src="https://github.com/user-attachments/assets/e204e552-c352-45ae-bc54-e4cabb9068ed" /># Mojito 🍸
 
 **A High-Performance Animated Portfolio Showcase**
 
@@ -40,9 +40,9 @@ To showcase your work, simply replace the placeholder URLs below with your own s
 *   *Recommended Size*: Max width 300px, Height ~200px.
 *   *Markdown Format*: `![Description](path/to/image.jpg)`
 
-| Home View | Animation Demo | Responsive Layout |
+| Home View | Animation Demo | Responsive Layout | Cocktails |
 | :---: | :---: | :---: |
-| ![Placeholder 1](https://placehold.co/300x200/222/FFF?text=Home+View) | ![Placeholder 2](https://placehold.co/300x200/222/FFF?text=Animation+Demo) | ![Placeholder 3](https://placehold.co/300x200/222/FFF?text=Responsive) |
+| ![Placeholder 1](https://i.ibb.co/HfTsRbHF/home.png) | ![Placeholder 2](https://i.ibb.co/WpxTkZVX/image1.png) | ![Placeholder 3](https://i.ibb.co/8n6zmmbf/image2.png) | ![Placeholder 4](https://i.ibb.co/602K65c3/image3.png) |
 
 ---
 
