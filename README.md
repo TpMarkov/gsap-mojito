@@ -1,5 +1,7 @@
 # Mojito 🍸
 
+![Banner](https://i.ibb.co/8n6zmmbf/image2.png)
+
 **A High-Performance Animated Portfolio Showcase**
 
 [**Live Demo: https://gsap-mojito-five.vercel.app**](https://gsap-mojito-five.vercel.app)
@@ -42,7 +44,7 @@ To showcase your work, simply replace the placeholder URLs below with your own s
 
 | Home View | Animation Demo | Responsive Layout |
 | :---: | :---: | :---: |
-| ![Placeholder 1](https://placehold.co/300x200/222/FFF?text=Home+View) | ![Placeholder 2](https://placehold.co/300x200/222/FFF?text=Animation+Demo) | ![Placeholder 3](https://placehold.co/300x200/222/FFF?text=Responsive) |
+| ![Home View](https://i.ibb.co/Q3vRhTKb/home.png) | ![Animation Demo](https://i.ibb.co/WpxTkZVX/image1.png) | ![Responsive Layout](https://i.ibb.co/602K65c3/image3.png) |
 
 ---
 
