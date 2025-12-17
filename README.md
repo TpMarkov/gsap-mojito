@@ -1,1 +1,73 @@
+# Mojito 🍸
 
+**A High-Performance Animated Portfolio Showcase**
+
+[**Live Demo: https://gsap-mojito-five.vercel.app**](https://gsap-mojito-five.vercel.app)
+
+---
+
+## 📖 About This Project
+
+Mojito is a modern, visually striking web experience designed to demonstrate the power of advanced web animations and responsive design. It utilizes the latest web technologies to deliver a premium user experience that feels alive and interactive.
+
+### Who is this for?
+*   **Recruiters & Hiring Managers**: To see a demonstration of advanced front-end skills (React, GSAP, Tailwind).
+*   **Developers**: To explore how to implement complex animations and smooth scrolling in a React 19 application.
+*   **Designers**: To find inspiration for clean, motion-rich UI/UX.
+
+### Key Benefits
+*   **Premium Feel**: Smooth transitions and micro-interactions create a polished, professional impression.
+*   **Performance**: Optimized for speed and responsiveness across all devices.
+*   **Modern Architecture**: Built with the newest standards in web development.
+
+---
+
+## 🛠️ Tech Stack
+
+This project is built using the latest bleeding-edge tools:
+
+*   **Framework**: [React 19](https://react.dev/)
+*   **Build Tool**: [Vite 7](https://vitejs.dev/)
+*   **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+*   **Animation**: [GSAP 3](https://gsap.com/) + [@gsap/react](https://gsap.com/resources/React/)
+
+---
+
+## 🖼️ Gallery
+
+### **How to add images:**
+To showcase your work, simply replace the placeholder URLs below with your own screenshot paths or hosted image URLs.
+*   *Recommended Size*: Max width 300px, Height ~200px.
+*   *Markdown Format*: `![Description](path/to/image.jpg)`
+
+| Home View | Animation Demo | Responsive Layout |
+| :---: | :---: | :---: |
+| ![Placeholder 1](https://placehold.co/300x200/222/FFF?text=Home+View) | ![Placeholder 2](https://placehold.co/300x200/222/FFF?text=Animation+Demo) | ![Placeholder 3](https://placehold.co/300x200/222/FFF?text=Responsive) |
+
+---
+
+## 💻 Getting Started
+
+For developers who want to run this project locally:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/mojito.git
+    cd mojito
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open in browser:**
+    Visit `http://localhost:5173` (or the port shown in your terminal).
+
+---
+*Created by Marko*
