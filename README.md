@@ -59,7 +59,10 @@ Captured from the live site:
       <b>Details Section</b><br>
       <img src="https://i.ibb.co/1fkLHK2W/image1.png" width="100%" alt="Details Section">
     </td>
-
+      <td align="center" width="50%">
+      <b>Art Section</b><br>
+      <img src="https://i.ibb.co/bj13vZbW/image2.png" width="100%" alt="Art Section">
+    </td>
   </tr>
 </table>
 
