@@ -2,15 +2,19 @@
 
 ![Banner](https://i.ibb.co/8n6zmmbf/image2.png)
 
-**A High-Performance Animated Portfolio Showcase**
+Mojito is a modern, visually striking web experience designed to demonstrate the power of advanced web animations and responsive design. It utilizes the latest web technologies to deliver a premium user experience that feels alive and interactive.
 
-[**Live Demo: https://gsap-mojito-five.vercel.app**](https://gsap-mojito-five.vercel.app)
+![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?style=flat-square&logo=vite)
+![GSAP](https://img.shields.io/badge/GSAP-3.14-88CE02?style=flat-square&logo=greensock)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind--CSS-4.1-06B6D4?style=flat-square&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)
 
 ---
 
 ## 📖 About This Project
 
-Mojito is a modern, visually striking web experience designed to demonstrate the power of advanced web animations and responsive design. It utilizes the latest web technologies to deliver a premium user experience that feels alive and interactive.
+Mojito is a high-performance animated portfolio showcase. It demonstrates advanced front-end skills through an intuitive and motion-rich interface.
 
 ### Who is this for?
 *   **Recruiters & Hiring Managers**: To see a demonstration of advanced front-end skills (React, GSAP, Tailwind).
@@ -37,19 +41,9 @@ This project is built using the latest bleeding-edge tools:
 
 ## 🖼️ Gallery
 
-### **How to add images:**
-To showcase your work, simply replace the placeholder URLs below with your own screenshot paths or hosted image URLs.
-*   *Recommended Size*: Max width 300px, Height ~200px.
-*   *Markdown Format*: `![Description](path/to/image.jpg)`
-
-### Home View
-![Home View](https://i.ibb.co/Q3vRhTKb/home.png)
-
-### Animation Showcase
-![Animation Demo](https://i.ibb.co/WpxTkZVX/image1.png)
-
-### Responsive Layout
-![Responsive Layout](https://i.ibb.co/602K65c3/image3.png)
+| Home View | Animation Demo | Responsive Layout |
+| :---: | :---: | :---: |
+| ![Home View](https://i.ibb.co/Q3vRhTKb/home.png) | ![Animation Demo](https://i.ibb.co/WpxTkZVX/image1.png) | ![Responsive Layout](https://i.ibb.co/602K65c3/image3.png) |
 
 ---
 
