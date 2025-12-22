@@ -47,7 +47,7 @@ Captured from the live site:
   <tr>
     <td align="center" width="50%">
       <b>Hero Section</b><br>
-      <img src="https://i.ibb.co/0p9GjgFm/home.png" width="100%" alt="Hero Section">
+      <img src="https://i.ibb.co/k2gTXFr1/home.png" width="100%" alt="Hero Section">
     </td>
     <td align="center" width="50%">
       <b>Cocktail Menu</b><br>
