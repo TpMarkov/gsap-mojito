@@ -41,15 +41,30 @@ This project is built using the latest bleeding-edge tools:
 
 ## 🖼️ Gallery
 
-Capture from the live site:
+Captured from the live site:
 
-| Hero Section | Cocktail Menu |
-| :---: | :---: |
-| ![Hero Section](./public/images/gallery/hero.png) | ![Cocktails](./public/images/gallery/cocktails.png) |
-
-| Details Section | The Art |
-| :---: | :---: |
-| ![Details](./public/images/gallery/details.png) | ![The Art](./public/images/gallery/art.png) |
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>Hero Section</b><br>
+      <img src="public/images/gallery/hero.png" width="100%" alt="Hero Section">
+    </td>
+    <td align="center" width="50%">
+      <b>Cocktail Menu</b><br>
+      <img src="public/images/gallery/cocktails.png" width="100%" alt="Cocktail Menu">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Details Section</b><br>
+      <img src="public/images/gallery/details.png" width="100%" alt="Details Section">
+    </td>
+    <td align="center" width="50%">
+      <b>The Art</b><br>
+      <img src="public/images/gallery/art.png" width="100%" alt="The Art">
+    </td>
+  </tr>
+</table>
 
 ---
 
