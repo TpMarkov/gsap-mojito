@@ -57,7 +57,7 @@ Captured from the live site:
   <tr>
     <td align="center" width="50%">
       <b>Details Section</b><br>
-      <img src="https://i.ibb.co/Hfj8dvYV/image1.png" width="100%" alt="Details Section">
+      <img src="https://i.ibb.co/1fkLHK2W/image1.png" width="100%" alt="Details Section">
     </td>
     <td align="center" width="50%">
       <b>The Art</b><br>
