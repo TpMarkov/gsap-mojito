@@ -47,17 +47,17 @@ Captured from the live site:
   <tr>
     <td align="center" width="50%">
       <b>Hero Section</b><br>
-      <img src="public/images/gallery/hero.png" width="100%" alt="Hero Section">
+      <img src="https://i.ibb.co/0p9GjgFm/home.png" width="100%" alt="Hero Section">
     </td>
     <td align="center" width="50%">
       <b>Cocktail Menu</b><br>
-      <img src="public/images/gallery/cocktails.png" width="100%" alt="Cocktail Menu">
+      <img src="https://i.ibb.co/Hf3Rp4Hb/image3.png" width="100%" alt="Cocktail Menu">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <b>Details Section</b><br>
-      <img src="public/images/gallery/details.png" width="100%" alt="Details Section">
+      <img src="https://i.ibb.co/k2vJ1QyX/image1.png" width="100%" alt="Details Section">
     </td>
     <td align="center" width="50%">
       <b>The Art</b><br>
