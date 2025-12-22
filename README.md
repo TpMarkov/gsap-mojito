@@ -41,9 +41,15 @@ This project is built using the latest bleeding-edge tools:
 
 ## 🖼️ Gallery
 
-| Home View | Animation Demo | Responsive Layout |
-| :---: | :---: | :---: |
-| ![Home View](https://i.ibb.co/0p9GjgFm/home.png) | ![Animation Demo](https://i.ibb.co/k2vJ1QyX/image1.png) | ![Responsive Layout](https://i.ibb.co/Hf3Rp4Hb/image3.png) |
+Capture from the live site:
+
+| Hero Section | Cocktail Menu |
+| :---: | :---: |
+| ![Hero Section](./public/images/gallery/hero.png) | ![Cocktails](./public/images/gallery/cocktails.png) |
+
+| Details Section | The Art |
+| :---: | :---: |
+| ![Details](./public/images/gallery/details.png) | ![The Art](./public/images/gallery/art.png) |
 
 ---
 
